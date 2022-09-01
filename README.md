@@ -1,10 +1,11 @@
-# K-POP White paper
+# K-POP White Paper
 
-{% content-ref url="k-pop-white-paper/k-pop-white-paper/k-pop-white-paper-ver1.0-kor/" %}
-[k-pop-white-paper-ver1.0-kor](k-pop-white-paper/k-pop-white-paper/k-pop-white-paper-ver1.0-kor/)
+
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
 
-{% content-ref url="k-pop-white-paper/k-pop-white-paper/k-pop-white-paper-ver1.0-eng/" %}
-[k-pop-white-paper-ver1.0-eng](k-pop-white-paper/k-pop-white-paper/k-pop-white-paper-ver1.0-eng/)
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
 {% endcontent-ref %}
-
