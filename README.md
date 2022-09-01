@@ -1,6 +1,9 @@
-- 👋 Hi, I’m @kpopcoop
+# K-POP White Paper
 
-<!---
-kpopcoop/kpopcoop is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}
+
+{% content-ref url="broken-reference" %}
+[Broken link](broken-reference)
+{% endcontent-ref %}

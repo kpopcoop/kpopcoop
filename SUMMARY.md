@@ -1,3 +1,4 @@
 # Table of contents
 
-* [README](README.md)
+* [K-POP White Paper](README.md)
+* [README](<README (1).md>)
