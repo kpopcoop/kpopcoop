@@ -28,4 +28,4 @@ K-POP DAO의 기본적인 파트너십 운영 방향은 다음과 같다.
 
 ![](<../../../../../.gitbook/assets/kpop삽도007 (1).png>)
 
-![](../../../../../.gitbook/assets/kpop삽도008.png)
+![](<../../../../../.gitbook/assets/kpop삽도008 (1).png>)

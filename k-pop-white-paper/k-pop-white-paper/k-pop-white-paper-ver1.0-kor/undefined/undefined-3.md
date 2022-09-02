@@ -16,6 +16,3 @@ Block Explorer: [https://scope.klaytn.com/token/0x0af4dbf035e287736c9cd52b2b50a4
 
 ![](../../../../.gitbook/assets/kpop삽도kr016.png)
 
-
-
-브랜드 유통 매출 순이익 10% 거래소에서 코인 매입 재산에 처분 상장 이후 순차적으로 1.2.3 프로젝트 사업추진에 따른 진척도에 보유 물량 상각(소각)처리하며, 시장 적정 물량은 10억개 기준에 시장 운영에 초점

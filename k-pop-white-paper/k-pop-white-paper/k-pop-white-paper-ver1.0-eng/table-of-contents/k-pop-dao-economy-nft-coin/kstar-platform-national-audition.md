@@ -1,6 +1,6 @@
 # KStar Platform - National Audition
 
-![](<../../../../../.gitbook/assets/image (13).png>)
+![](<../../../../../.gitbook/assets/image (12).png>)
 
 &#x20;The Hallyu Culture Foundation is planning to expand the base of K-POP COIN and make practical use of it.
 
