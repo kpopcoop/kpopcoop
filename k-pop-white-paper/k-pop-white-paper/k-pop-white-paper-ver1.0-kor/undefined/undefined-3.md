@@ -14,5 +14,4 @@ Block Explorer: [https://scope.klaytn.com/token/0x0af4dbf035e287736c9cd52b2b50a4
 
 
 
-![](../../../../.gitbook/assets/kpop삽도kr016.png)
-
+<figure><img src="../../../../.gitbook/assets/(한)kpop 토큰 생태계.png" alt=""><figcaption></figcaption></figure>
