@@ -12,4 +12,4 @@ DAO를 통해 이뤄지게 될 많은 의사결정참여를 위해서는 앞에�
 
 
 
-![](broken-reference)
+![](../../../../../.gitbook/assets/kpop삽도009.png)
