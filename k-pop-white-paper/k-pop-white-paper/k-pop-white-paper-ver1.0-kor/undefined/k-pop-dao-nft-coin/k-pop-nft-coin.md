@@ -6,7 +6,7 @@
 
 
 
-![](../../../../../.gitbook/assets/kpop삽도kr010.png)
+![](../../../../../.gitbook/assets/kpop삽도kr010.png)
 
 
 
@@ -34,6 +34,6 @@
 
 
 
-![](../../../../../.gitbook/assets/kpop삽도kr015.png)
+![](../../../../../.gitbook/assets/kpop삽도kr015.png)
 
 ![](../../../../../.gitbook/assets/kpop삽도012.png)

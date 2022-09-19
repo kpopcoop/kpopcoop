@@ -8,4 +8,4 @@
 
 &#x20;K-POP COIN = DAO's Key Currency and Decision Making
 
-![](../../../../../.gitbook/assets/kpop삽도en009.png)
+![](broken-reference)
